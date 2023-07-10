@@ -8,8 +8,8 @@ This project aims to perform analytics on Sales and Customer data using big data
 In this project, we are working on customer test, individual test, credit card, sales order details, store, sales territory, salesperson, sales order header table which we are creating in MySQL database.
 
 ## Tech Stack
-* Language: SQL, PySpark
-* Services: AWS EC2, Hive, MySQL, Sqoop, HDFS, Spark, Docker
+- Language: SQL, PySpark
+- Services: AWS EC2, Hive, MySQL, Sqoop, HDFS, Spark, Docker
 
 [AWS EC2](doc/AWS-EC2.md)
 [Hive](doc/Hive.md)
