@@ -19,3 +19,4 @@ hive_task
 
 if __name__ == '__main__':
   dag_hive.cli()
+ 
