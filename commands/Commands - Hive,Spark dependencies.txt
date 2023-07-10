@@ -1,5 +1,4 @@
 
-
 Commands to Add Hive - Spark Dependencies
 
 Requirements:
